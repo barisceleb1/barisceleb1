@@ -9,6 +9,6 @@
 - 📫 How to reach me **barisclb71@gmail.com**
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mashood100&show_icons=true&locale=en&layout=compact" alt="mashood100" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mashood100&show_icons=true&locale=en" alt="mashood100" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mashood100&show_icons=true&locale=en" alt="mashood100" /></p>
 <p><img align=" center" src="https://github-readme-streak-stats.herokuapp.com/?user=barisceleb1&" alt="barisceleb1" /></p>
 
