@@ -1,7 +1,7 @@
 ### Hi 👋,I'm Baris Celebi 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=barisceleb1" alt="barisceleb1" /> </p>
 
 ![](https://github.com/barisceleb1/barisceleb1/blob/master/sailboat-1685_256.gif)    
-
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barisceleb1&show_icons=true&locale=en" alt="barisceleb1" /></p>-->
 
 - 🔭 I'm currently working on firebase ...
