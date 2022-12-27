@@ -1,4 +1,4 @@
-### Hi 👋,I'm Baris Celebi 👋
+### Hi 👋,I'm Baris Celebi 
 
 ![](https://github.com/barisceleb1/barisceleb1/blob/master/sailboat-1685_256.gif)    
 
