@@ -1,6 +1,7 @@
 ### Hi 👋,I'm Baris Celebi 👋
+---
 ![](https://github.com/barisceleb1/barisceleb1/blob/master/sailboat-1685_256.gif)    
-<!--------------------------------------------------------------------------------------
+<!--
 **barisceleb1/barisceleb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
