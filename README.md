@@ -1,4 +1,4 @@
-<h2> Hi 👋,I'm Baris Celebi</h2>. 
+<h2> Hi 👋,I'm Baris Celebi</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barisceleb1" alt="barisceleb1" /> </p>
 
 ![](https://github.com/barisceleb1/barisceleb1/blob/master/sailboat-1685_256.gif)    
